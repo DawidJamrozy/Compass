@@ -1,0 +1,8 @@
+ext {
+    config = [
+            appId            : "com.dawidj.netgurucompass",
+            minSdk           : 21,
+            targetSdk        : 28,
+            compileSdk       : 28
+    ]
+}
